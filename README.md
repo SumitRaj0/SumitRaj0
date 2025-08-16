@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React,JavaScript,TypeScript,Node,Redux**
 
-- 📫 How to reach me **sumitsharma0845@outlook.com**
+- 📫 How to reach me **sumitraj.itdev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KGOn3bw3e1FGW57CexFCp9XFqDzWeOvV/view?usp=sharing](https://drive.google.com/file/d/1KGOn3bw3e1FGW57CexFCp9XFqDzWeOvV/view?usp=sharing)
 
